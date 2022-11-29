@@ -41,10 +41,10 @@
 {
       "RawFilePath": "https://github.com/kumud-sharma/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/edit/master/Instructions/Labs/LAB_04L02_Package_AVD_applications_ADDS.md",
       "Order": 10
-    }
+    },
 {
       "RawFilePath": "https://raw.githubusercontent.com/kumud-sharma/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/master/Instructions/Labs/LAB_05L01_Implement_autoscaling_in_host_pools_ADDS.md",
       "Order": 11
-    },
+    }
   ]
 } ]
